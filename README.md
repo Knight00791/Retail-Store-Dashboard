@@ -34,7 +34,7 @@ Retail businesses generate large volumes of transactional data. This project lev
 
 ## 📷 Dashboard Preview
 
-![Retail Store Dashboard Screenshot](https://github.com/Knight00791/Retail-Store-Dashboard/blob/main/Dashboard%201%20(2).png?raw=true)
+![Retail Store Dashboard Screenshot](https://github.com/Knight00791/Retail-Store-Dashboard/blob/main/Screenshot%202025-06-20%20023031.png?raw=true)
 
 ---
 
