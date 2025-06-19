@@ -27,10 +27,10 @@ Retail businesses generate large volumes of transactional data. This project lev
 
 ## 🧾 Files Included
 
-| File Name                      | Description                                   |
-|--------------------------------|-----------------------------------------------|
-| Retail_Store_Dashboard.twbx    | Tableau workbook containing the dashboard     |
-| dashboard_ss.png               | Dashboard screenshot/preview image            |
+| File Name                                          | Description                                   |
+|----------------------------------------------------|-----------------------------------------------|
+| Retail_Store_Dashboard.twbx                        | Tableau workbook containing the dashboard     |
+| Screenshot%202025-06-20%20023031.png               | Dashboard screenshot/preview image            |
 
 ## 📷 Dashboard Preview
 
